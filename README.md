@@ -1,2 +1,2 @@
 # APLP---UFCG
-University APLP dicipline code 
+University APLP discipline code 
